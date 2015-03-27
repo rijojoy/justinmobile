@@ -1,0 +1,40 @@
+.dTable-no-header .table-header {
+    display: none;
+}
+
+.icheckbox_flat-aero {
+    margin-top: 5px;
+}
+
+.alert.alert-global {
+    margin: 10px 0;
+}
+
+.table-form {
+    display: inline;
+}
+
+.order-data thead, .order-data .table-footer {
+    display: none;
+}
+
+.ffffffff {
+    min-width: 80px;
+}
+
+.productctc {
+    color: #FF9900;
+    font-weight: bold;
+}
+
+.status-available-list .btn {
+    margin-bottom: 10px;
+}
+
+.search-query {
+    width: 200px;
+}
+
+.documentation-in a {
+    padding-left: 30px !important;
+}

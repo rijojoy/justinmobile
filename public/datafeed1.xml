@@ -1,0 +1,953 @@
+<?xml version="1.0"?>
+<products>
+	
+	<product>
+		<product_id>1001</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPhone 4 16gb</model>
+		<category>Smartphones</category>
+		<working_price>31.00</working_price>
+		<non_working_price>10.00</non_working_price>
+		<new_price>36.00</new_price>
+		<voucher_price>31.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/iphone</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/6.png</image>
+	</product>
+	
+	<product>
+		<product_id>1002</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPhone 4 32gb</model>
+		<category>Smartphones</category>
+		<working_price>31.00</working_price>
+		<non_working_price>10.00</non_working_price>
+		<new_price>36.00</new_price>
+		<voucher_price>31.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/iphone</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/6.png</image>
+	</product>
+	
+	<product>
+		<product_id>1003</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPhone 4S 16gb</model>
+		<category>Smartphones</category>
+		<working_price>53.00</working_price>
+		<non_working_price>17.00</non_working_price>
+		<new_price>58.00</new_price>
+		<voucher_price>53.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/iphone</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/8.png</image>
+	</product>
+	
+	<product>
+		<product_id>1004</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPhone 4S 32gb</model>
+		<category>Smartphones</category>
+		<working_price>56.00</working_price>
+		<non_working_price>17.00</non_working_price>
+		<new_price>61.00</new_price>
+		<voucher_price>56.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/iphone</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/8.png</image>
+	</product>
+	
+	<product>
+		<product_id>1005</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPhone 4S 64gb</model>
+		<category>Smartphones</category>
+		<working_price>60.00</working_price>
+		<non_working_price>17.00</non_working_price>
+		<new_price>65.00</new_price>
+		<voucher_price>60.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/iphone</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/8.png</image>
+	</product>
+	
+	<product>
+		<product_id>1006</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPhone 5 16gb</model>
+		<category>Smartphones</category>
+		<working_price>91.00</working_price>
+		<non_working_price>53.00</non_working_price>
+		<new_price>96.00</new_price>
+		<voucher_price>91.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/iphone</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/9.png</image>
+	</product>
+	
+	<product>
+		<product_id>1007</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPhone 5 32gb</model>
+		<category>Smartphones</category>
+		<working_price>92.00</working_price>
+		<non_working_price>51.00</non_working_price>
+		<new_price>97.00</new_price>
+		<voucher_price>92.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/iphone</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/9.png</image>
+	</product>
+	
+	<product>
+		<product_id>1008</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPhone 5 64gb</model>
+		<category>Smartphones</category>
+		<working_price>92.00</working_price>
+		<non_working_price>54.00</non_working_price>
+		<new_price>97.00</new_price>
+		<voucher_price>92.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/iphone</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/9.png</image>
+	</product>
+	
+	<product>
+		<product_id>1009</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPhone 5c 16gb</model>
+		<category>Smartphones</category>
+		<working_price>86.00</working_price>
+		<non_working_price>46.00</non_working_price>
+		<new_price>96.00</new_price>
+		<voucher_price>86.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/iphone</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/17.png</image>
+	</product>
+	
+	<product>
+		<product_id>1010</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPhone 5c 32gb</model>
+		<category>Smartphones</category>
+		<working_price>91.00</working_price>
+		<non_working_price>51.00</non_working_price>
+		<new_price>101.00</new_price>
+		<voucher_price>91.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/iphone</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/17.png</image>
+	</product>
+	
+	<product>
+		<product_id>1011</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPhone 5s 16gb</model>
+		<category>Smartphones</category>
+		<working_price>151.00</working_price>
+		<non_working_price>111.00</non_working_price>
+		<new_price>161.00</new_price>
+		<voucher_price>151.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/iphone</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/18.png</image>
+	</product>
+	
+	<product>
+		<product_id>1012</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPhone 5s 32gb</model>
+		<category>Smartphones</category>
+		<working_price>151.00</working_price>
+		<non_working_price>111.00</non_working_price>
+		<new_price>161.00</new_price>
+		<voucher_price>151.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/iphone</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/18.png</image>
+	</product>
+	
+	<product>
+		<product_id>1013</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPhone 5s 64gb</model>
+		<category>Smartphones</category>
+		<working_price>161.00</working_price>
+		<non_working_price>121.00</non_working_price>
+		<new_price>171.00</new_price>
+		<voucher_price>161.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/iphone</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/18.png</image>
+	</product>
+	
+	<product>
+		<product_id>1014</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPhone 6 16gb</model>
+		<category>Smartphones</category>
+		<working_price>295.00</working_price>
+		<non_working_price>170.00</non_working_price>
+		<new_price>315.00</new_price>
+		<voucher_price>295.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/iphone</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/55.png</image>
+	</product>
+	
+	<product>
+		<product_id>1015</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPhone 6 64gb</model>
+		<category>Smartphones</category>
+		<working_price>325.00</working_price>
+		<non_working_price>200.00</non_working_price>
+		<new_price>345.00</new_price>
+		<voucher_price>325.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/iphone</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/55.png</image>
+	</product>
+	
+	<product>
+		<product_id>1016</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPhone 6 128gb</model>
+		<category>Smartphones</category>
+		<working_price>360.00</working_price>
+		<non_working_price>235.00</non_working_price>
+		<new_price>380.00</new_price>
+		<voucher_price>360.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/iphone</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/55.png</image>
+	</product>
+	
+	<product>
+		<product_id>1017</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPhone 6 Plus 16gb</model>
+		<category>Smartphones</category>
+		<working_price>315.00</working_price>
+		<non_working_price>190.00</non_working_price>
+		<new_price>325.00</new_price>
+		<voucher_price>315.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/iphone</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/56.png</image>
+	</product>
+	
+	<product>
+		<product_id>1018</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPhone 6 Plus 64gb</model>
+		<category>Smartphones</category>
+		<working_price>355.00</working_price>
+		<non_working_price>230.00</non_working_price>
+		<new_price>375.00</new_price>
+		<voucher_price>355.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/iphone</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/56.png</image>
+	</product>
+		
+	<product>
+		<product_id>1019</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPhone 6 Plus 128gb</model>
+		<category>Smartphones</category>
+		<working_price>395.00</working_price>
+		<non_working_price>270.00</non_working_price>
+		<new_price>415.00</new_price>
+		<voucher_price>395.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/iphone</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/56.png</image>
+	</product>
+	
+	<product>
+		<product_id>1020</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad 2 16gb WiFi</model>
+		<category>Tablets</category>
+		<working_price>85.00</working_price>
+		<non_working_price>45.00</non_working_price>
+		<new_price>90.00</new_price>
+		<voucher_price>85.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/11.png</image>
+	</product>
+	
+	<product>
+		<product_id>1021</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad 2 16gb WiFi + 3G</model>
+		<category>Tablets</category>
+		<working_price>95.00</working_price>
+		<non_working_price>55.00</non_working_price>
+		<new_price>100.00</new_price>
+		<voucher_price>95.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/11.png</image>
+	</product>
+	
+	<product>
+		<product_id>1022</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad 2 32gb WiFi</model>
+		<category>Tablets</category>
+		<working_price>98.00</working_price>
+		<non_working_price>58.00</non_working_price>
+		<new_price>103.00</new_price>
+		<voucher_price>98.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/11.png</image>
+	</product>
+	
+	<product>
+		<product_id>1023</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad 2 32gb WiFi + 3G</model>
+		<category>Tablets</category>
+		<working_price>108.00</working_price>
+		<non_working_price>68.00</non_working_price>
+		<new_price>108.00</new_price>
+		<voucher_price>108.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/11.png</image>
+	</product>
+	
+	<product>
+		<product_id>1024</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad 2 64gb WiFi</model>
+		<category>Tablets</category>
+		<working_price>105.00</working_price>
+		<non_working_price>65.00</non_working_price>
+		<new_price>110.00</new_price>
+		<voucher_price>105.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/11.png</image>
+	</product>
+	
+	<product>
+		<product_id>1025</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad 2 64gb WiFi + 3G</model>
+		<category>Tablets</category>
+		<working_price>115.00</working_price>
+		<non_working_price>75.00</non_working_price>
+		<new_price>120.00</new_price>
+		<voucher_price>115.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/11.png</image>
+	</product>
+	
+	<product>
+		<product_id>1026</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad 3 16gb WiFi</model>
+		<category>Tablets</category>
+		<working_price>105.00</working_price>
+		<non_working_price>65.00</non_working_price>
+		<new_price>110.00</new_price>
+		<voucher_price>105.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/12.png</image>
+	</product>
+	
+	<product>
+		<product_id>1027</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad 3 16gb WiFi + 4G</model>
+		<category>Tablets</category>
+		<working_price>115.00</working_price>
+		<non_working_price>75.00</non_working_price>
+		<new_price>120.00</new_price>
+		<voucher_price>115.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/12.png</image>
+	</product>
+	
+	<product>
+		<product_id>1028</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad 3 32gb WiFi</model>
+		<category>Tablets</category>
+		<working_price>115.00</working_price>
+		<non_working_price>75.00</non_working_price>
+		<new_price>120.00</new_price>
+		<voucher_price>115.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/12.png</image>
+	</product>
+	
+	<product>
+		<product_id>1029</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad 3 32gb WiFi + 4G</model>
+		<category>Tablets</category>
+		<working_price>125.00</working_price>
+		<non_working_price>85.00</non_working_price>
+		<new_price>130.00</new_price>
+		<voucher_price>125.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/12.png</image>
+	</product>
+	
+	<product>
+		<product_id>1030</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad 3 64gb WiFi</model>
+		<category>Tablets</category>
+		<working_price>125.00</working_price>
+		<non_working_price>85.00</non_working_price>
+		<new_price>130.00</new_price>
+		<voucher_price>125.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/12.png</image>
+	</product>
+	
+	<product>
+		<product_id>1031</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad 3 64gb WiFi + 4G</model>
+		<category>Tablets</category>
+		<working_price>135.00</working_price>
+		<non_working_price>95.00</non_working_price>
+		<new_price>140.00</new_price>
+		<voucher_price>135.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/12.png</image>
+	</product>
+	
+	<product>
+		<product_id>1032</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad 4 16gb WiFi</model>
+		<category>Tablets</category>
+		<working_price>125.00</working_price>
+		<non_working_price>85.00</non_working_price>
+		<new_price>130.00</new_price>
+		<voucher_price>125.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/13.png</image>
+	</product>
+	
+	<product>
+		<product_id>1033</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad 4 16gb WiFi + 4G</model>
+		<category>Tablets</category>
+		<working_price>135.00</working_price>
+		<non_working_price>95.00</non_working_price>
+		<new_price>140.00</new_price>
+		<voucher_price>135.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/13.png</image>
+	</product>
+	
+	<product>
+		<product_id>1034</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad 4 32gb WiFi</model>
+		<category>Tablets</category>
+		<working_price>136.00</working_price>
+		<non_working_price>96.00</non_working_price>
+		<new_price>141.00</new_price>
+		<voucher_price>136.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/13.png</image>
+	</product>
+	
+	<product>
+		<product_id>1035</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad 4 32gb WiFi + 4G</model>
+		<category>Tablets</category>
+		<working_price>146.00</working_price>
+		<non_working_price>106.00</non_working_price>
+		<new_price>151.00</new_price>
+		<voucher_price>146.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/13.png</image>
+	</product>
+	
+	<product>
+		<product_id>1036</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad 4 64gb WiFi</model>
+		<category>Tablets</category>
+		<working_price>145.00</working_price>
+		<non_working_price>105.00</non_working_price>
+		<new_price>150.00</new_price>
+		<voucher_price>145.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/13.png</image>
+	</product>
+	
+	<product>
+		<product_id>1037</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad 4 64gb WiFi + 4G</model>
+		<category>Tablets</category>
+		<working_price>155.00</working_price>
+		<non_working_price>115.00</non_working_price>
+		<new_price>160.00</new_price>
+		<voucher_price>155.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/13.png</image>
+	</product>
+	
+	<product>
+		<product_id>1038</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad 4 128gb WiFi</model>
+		<category>Tablets</category>
+		<working_price>160.00</working_price>
+		<non_working_price>120.00</non_working_price>
+		<new_price>165.00</new_price>
+		<voucher_price>160.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/13.png</image>
+	</product>
+	
+	<product>
+		<product_id>1039</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad 4 128gb WiFi + 4G</model>
+		<category>Tablets</category>
+		<working_price>170.00</working_price>
+		<non_working_price>130.00</non_working_price>
+		<new_price>175.00</new_price>
+		<voucher_price>170.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/13.png</image>
+	</product>
+	
+	<product>
+		<product_id>1040</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Air 1 16gb WiFi</model>
+		<category>Tablets</category>
+		<working_price>145.00</working_price>
+		<non_working_price>90.00</non_working_price>
+		<new_price>155.00</new_price>
+		<voucher_price>145.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/14.png</image>
+	</product>
+	
+	<product>
+		<product_id>1041</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Air 1 16gb WiFi + 4G</model>
+		<category>Tablets</category>
+		<working_price>155.00</working_price>
+		<non_working_price>100.00</non_working_price>
+		<new_price>165.00</new_price>
+		<voucher_price>155.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/14.png</image>
+	</product>
+	
+	<product>
+		<product_id>1042</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Air 1 32gb WiFi</model>
+		<category>Tablets</category>
+		<working_price>155.00</working_price>
+		<non_working_price>100.00</non_working_price>
+		<new_price>165.00</new_price>
+		<voucher_price>155.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/14.png</image>
+	</product>
+	
+	<product>
+		<product_id>1043</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Air 1 32gb WiFi + 4G</model>
+		<category>Tablets</category>
+		<working_price>165.00</working_price>
+		<non_working_price>110.00</non_working_price>
+		<new_price>175.00</new_price>
+		<voucher_price>165.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/14.png</image>
+	</product>
+	
+	<product>
+		<product_id>1044</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Air 1 64gb WiFi</model>
+		<category>Tablets</category>
+		<working_price>165.00</working_price>
+		<non_working_price>110.00</non_working_price>
+		<new_price>175.00</new_price>
+		<voucher_price>165.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/14.png</image>
+	</product>
+	
+	<product>
+		<product_id>1045</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Air 1 64gb WiFi + 4G</model>
+		<category>Tablets</category>
+		<working_price>175.00</working_price>
+		<non_working_price>120.00</non_working_price>
+		<new_price>185.00</new_price>
+		<voucher_price>175.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/14.png</image>
+	</product>
+	
+	<product>
+		<product_id>1046</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Air 1 128gb WiFi</model>
+		<category>Tablets</category>
+		<working_price>205.00</working_price>
+		<non_working_price>150.00</non_working_price>
+		<new_price>215.00</new_price>
+		<voucher_price>205.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/14.png</image>
+	</product>
+	
+	<product>
+		<product_id>1047</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Air 1 128gb WiFi + 4G</model>
+		<category>Tablets</category>
+		<working_price>215.00</working_price>
+		<non_working_price>160.00</non_working_price>
+		<new_price>225.00</new_price>
+		<voucher_price>215.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/14.png</image>
+	</product>
+	
+	<product>
+		<product_id>1048</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Air 2 16gb WiFi</model>
+		<category>Tablets</category>
+		<working_price>210.00</working_price>
+		<non_working_price>100.00</non_working_price>
+		<new_price>220.00</new_price>
+		<voucher_price>210.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/58.png</image>
+	</product>
+	
+	<product>
+		<product_id>1049</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Air 2 16gb WiFi + 4G</model>
+		<category>Tablets</category>
+		<working_price>230.00</working_price>
+		<non_working_price>95.00</non_working_price>
+		<new_price>240.00</new_price>
+		<voucher_price>230.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/58.png</image>
+	</product>
+	
+	<product>
+		<product_id>1050</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Air 2 64gb WiFi</model>
+		<category>Tablets</category>
+		<working_price>220.00</working_price>
+		<non_working_price>100.00</non_working_price>
+		<new_price>220.00</new_price>
+		<voucher_price>220.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/58.png</image>
+	</product>
+	
+	<product>
+		<product_id>1051</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Air 2 64gb WiFi + 4G</model>
+		<category>Tablets</category>
+		<working_price>240.00</working_price>
+		<non_working_price>100.00</non_working_price>
+		<new_price>250.00</new_price>
+		<voucher_price>240.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/58.png</image>
+	</product>
+	
+	<product>
+		<product_id>1052</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Air 2 128gb WiFi</model>
+		<category>Tablets</category>
+		<working_price>230.00</working_price>
+		<non_working_price>100.00</non_working_price>
+		<new_price>240.00</new_price>
+		<voucher_price>230.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/58.png</image>
+	</product>
+	
+	<product>
+		<product_id>1053</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Air 2 128gb WiFi + 4G</model>
+		<category>Tablets</category>
+		<working_price>250.00</working_price>
+		<non_working_price>100.00</non_working_price>
+		<new_price>260.00</new_price>
+		<voucher_price>250.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/58.png</image>
+	</product>
+	
+	<product>
+		<product_id>1054</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Mini 1 16gb WiFi</model>
+		<category>Tablets</category>
+		<working_price>81.00</working_price>
+		<non_working_price>31.00</non_working_price>
+		<new_price>86.00</new_price>
+		<voucher_price>81.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/15.png</image>
+	</product>
+	
+	<product>
+		<product_id>1055</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Mini 1 16gb WiFi + 3G</model>
+		<category>Tablets</category>
+		<working_price>91.00</working_price>
+		<non_working_price>41.00</non_working_price>
+		<new_price>96.00</new_price>
+		<voucher_price>91.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/15.png</image>
+	</product>
+	
+	<product>
+		<product_id>1056</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Mini 1 32gb WiFi</model>
+		<category>Tablets</category>
+		<working_price>91.00</working_price>
+		<non_working_price>41.00</non_working_price>
+		<new_price>96.00</new_price>
+		<voucher_price>91.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/15.png</image>
+	</product>
+	
+	<product>
+		<product_id>1057</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Mini 1 32gb WiFi + 3G</model>
+		<category>Tablets</category>
+		<working_price>101.00</working_price>
+		<non_working_price>51.00</non_working_price>
+		<new_price>106.00</new_price>
+		<voucher_price>101.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/15.png</image>
+	</product>
+	
+	<product>
+		<product_id>1058</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Mini 1 64gb WiFi</model>
+		<category>Tablets</category>
+		<working_price>101.00</working_price>
+		<non_working_price>51.00</non_working_price>
+		<new_price>106.00</new_price>
+		<voucher_price>101.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/15.png</image>
+	</product>
+	
+	<product>
+		<product_id>1059</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Mini 1 64gb WiFi + 3G</model>
+		<category>Tablets</category>
+		<working_price>111.00</working_price>
+		<non_working_price>61.00</non_working_price>
+		<new_price>116.00</new_price>
+		<voucher_price>111.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/15.png</image>
+	</product>
+	
+	<product>
+		<product_id>1060</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Mini 2 16gb WiFi</model>
+		<category>Tablets</category>
+		<working_price>140.00</working_price>
+		<non_working_price>90.00</non_working_price>
+		<new_price>150.00</new_price>
+		<voucher_price>140.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/16.png</image>
+	</product>
+	
+	<product>
+		<product_id>1061</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Mini 2 16gb WiFi + 4G</model>
+		<category>Tablets</category>
+		<working_price>150.00</working_price>
+		<non_working_price>100.00</non_working_price>
+		<new_price>160.00</new_price>
+		<voucher_price>150.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/16.png</image>
+	</product>
+	
+	<product>
+		<product_id>1062</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Mini 2 32gb WiFi</model>
+		<category>Tablets</category>
+		<working_price>140.00</working_price>
+		<non_working_price>90.00</non_working_price>
+		<new_price>150.00</new_price>
+		<voucher_price>140.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/16.png</image>
+	</product>
+	
+	<product>
+		<product_id>1063</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Mini 2 32gb WiFi + 4G</model>
+		<category>Tablets</category>
+		<working_price>150.00</working_price>
+		<non_working_price>100.00</non_working_price>
+		<new_price>160.00</new_price>
+		<voucher_price>150.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/16.png</image>
+	</product>
+	
+	<product>
+		<product_id>1064</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Mini 2 64gb WiFi</model>
+		<category>Tablets</category>
+		<working_price>150.00</working_price>
+		<non_working_price>100.00</non_working_price>
+		<new_price>160.00</new_price>
+		<voucher_price>150.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/16.png</image>
+	</product>
+	
+	<product>
+		<product_id>1065</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Mini 2 64gb WiFi + 4G</model>
+		<category>Tablets</category>
+		<working_price>160.00</working_price>
+		<non_working_price>110.00</non_working_price>
+		<new_price>170.00</new_price>
+		<voucher_price>160.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/16.png</image>
+	</product>
+	
+	<product>
+		<product_id>1066</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Mini 2 128gb WiFi</model>
+		<category>Tablets</category>
+		<working_price>170.00</working_price>
+		<non_working_price>120.00</non_working_price>
+		<new_price>180.00</new_price>
+		<voucher_price>170.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/16.png</image>
+	</product>
+	
+	<product>
+		<product_id>1067</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Mini 2 128gb WiFi + 4G</model>
+		<category>Tablets</category>
+		<working_price>180.00</working_price>
+		<non_working_price>130.00</non_working_price>
+		<new_price>190.00</new_price>
+		<voucher_price>180.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/16.png</image>
+	</product>
+	
+	<product>
+		<product_id>1068</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Mini 3 16gb WiFi</model>
+		<category>Tablets</category>
+		<working_price>185.00</working_price>
+		<non_working_price>175.00</non_working_price>
+		<new_price>195.00</new_price>
+		<voucher_price>185.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/57.png</image>
+	</product>
+	
+	<product>
+		<product_id>1069</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Mini 3 16gb WiFi + 4G</model>
+		<category>Tablets</category>
+		<working_price>195.00</working_price>
+		<non_working_price>80.00</non_working_price>
+		<new_price>205.00</new_price>
+		<voucher_price>195.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/57.png</image>
+	</product>
+	
+	<product>
+		<product_id>1070</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Mini 3 64gb WiFi</model>
+		<category>Tablets</category>
+		<working_price>195.00</working_price>
+		<non_working_price>80.00</non_working_price>
+		<new_price>205.00</new_price>
+		<voucher_price>195.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/57.png</image>
+	</product>
+	
+	<product>
+		<product_id>1071</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Mini 3 64gb WiFi + 4G</model>
+		<category>Tablets</category>
+		<working_price>205.00</working_price>
+		<non_working_price>80.00</non_working_price>
+		<new_price>215.00</new_price>
+		<voucher_price>205.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/57.png</image>
+	</product>
+	
+	<product>
+		<product_id>1072</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Mini 3 128gb WiFi</model>
+		<category>Tablets</category>
+		<working_price>205.00</working_price>
+		<non_working_price>80.00</non_working_price>
+		<new_price>215.00</new_price>
+		<voucher_price>205.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/57.png</image>
+	</product>
+	
+	<product>
+		<product_id>1073</product_id>
+		<manufacturer>Apple</manufacturer>
+		<model>iPad Mini 3 128gb WiFi + 4G</model>
+		<category>Tablets</category>
+		<working_price>215.00</working_price>
+		<non_working_price>80.00</non_working_price>
+		<new_price>225.00</new_price>
+		<voucher_price>215.00</voucher_price>
+		<deeplink>https://www.geckomobilerecycling.co.uk/sell/ipad</deeplink>
+		<image>https://www.geckomobilerecycling.co.uk/assets/images/products/57.png</image>
+	</product>
+	
+</products>

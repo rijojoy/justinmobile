@@ -1,0 +1,14 @@
+<IfModule mod_rewrite.c>
+    Options -MultiViews
+    RewriteEngine On
+
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+</IfModule>
+#AuthName "Homepage Access"
+#AuthUserFile "/home/gecko/.htpasswds/public_html/passwd"
+
+#RewriteCond %{HTTP_HOST} ^geckomobilerecycling.co.uk$
+#RewriteRule ^/?$ "https\:\/\/www\.geckomobilerecycling\.co\.uk\/" [R=301,L]
+

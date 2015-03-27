@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+<!--<meta http-equiv="refresh" content="0; url=https://www.geckomobilerecycling.co.uk/away.html" />-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">       
+        <?php
+            $url = Request::path() == '/' ? 'geckomobilerecycling.co.uk' : str_replace('https://www.', '', Request::url());
+            $pageMeta = (object)array();
+            $defaultMeta = (object)array();
+
+            try {
+                $defaultMeta = DB::connection('mysql2')->select('Select id, slug, title, description, keywords From seo Where id = 32');
+                $defaultMeta = $defaultMeta[0];    
+            } catch (Exception $e) {
+                
+            }
+
+            try{
+                $pageMeta = DB::connection('mysql2')->select('Select id, slug, title, description, keywords From seo Where slug Like "'.$url.'"');
+                $pageMeta = $pageMeta[0];    
+            } catch (Exception $e) {
+                $pageMeta = $defaultMeta;
+                
+            }  
+            $metaTitle = (isset($pageMeta->title) && $pageMeta->title != '') ? $pageMeta->title : $defaultMeta->title;
+            $metaKeywords = (isset($pageMeta->keywords) && $pageMeta->keywords != '') ? $pageMeta->keywords : $defaultMeta->keywords;
+            $metaDescription = (isset($pageMeta->description) && $pageMeta->description != '') ? $pageMeta->description : $defaultMeta->description;
+        ?>
+        <meta name="description" content="{{$metaDescription}}">
+        <meta name="keywords" content="{{$metaKeywords}}">
+        <meta name="author" content="">
+        <title>{{$metaTitle}}</title>
+        <link href="/assets/css/bootstrap.min.css" rel="stylesheet">
+        <link href="/assets/css/front.css" rel="stylesheet">
+        <script src="/assets/js/jquery.min.js"></script>
+        <script src="/assets/js/bootstrap.min.js"></script>
+        <script src="/assets/js/front.js"></script>
+        <link type="text/css" rel="stylesheet" href="/assets/css/responsive-tabs.css" />
+        <link type="text/css" rel="stylesheet" href="/assets/css/responsive-tabs-style.css" />
+        <script src="/assets/js/jquery.responsiveTabs.js" type="text/javascript"></script>
+<link rel="shortcut icon" href="https://www.geckomobilerecycling.co.uk/assets/images/favicon.ico" >
+<meta property="og:image" content="http://www.geckomobilerecycling.co.uk/assets/images/geckoa.jpg"; />
+<meta property="og:image:secure_url" content="https://www.geckomobilerecycling.co.uk/assets/images/geckoa.jpg" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="300" />
+<meta property="og:image:height" content="300" />
+<meta property="og:description" content="Check out Justin Mobile Recycling!" />
+
+<!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+$.src='//v2.zopim.com/?1tpLHpEz1WXy3TAbRJRsjlxQCT6f3nmF';z.t=+new Date;$.
+type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+</script>
+<!--End of Zopim Live Chat Script-->
+<script type="text/javascript">
+    function hideImage(){
+        document.getElementById('cgImage').style.display='none';
+    }
+</script>
+</head>
+<body>
+
+	<?php // require_once app_path() . '/views/layouts/front/arscode-social-slider/arscode-social-slider.php'; ?>
+        <div class="navbar navbar-inverse navbar-gecko" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="collapse navbar-collapse">
+                    <ul class="nav navbar-nav">
+                        <?php $navigation = array(
+                           'contact' => array(
+				'route' => 'contact',
+				'label' => 'Contact Us'
+                            ),
+
+			    'blog' => array(
+                            	'route' => 'blog',
+                            	'label' => 'Blog'
+                            ),
+                            'about-us' => array(
+                                'route' => 'why-use-us',
+                                'label' => 'Why Use Us'
+                            ),
+                            'faq' => array(
+                                'route' => 'faq',
+                                'label' => 'FAQ'
+                            )
+                        ); 
+                        foreach ($products as $prod) {
+                            $navigation[] = array(
+                                'route' => 'sell/' . $prod->slug,
+                                'label' => 'Sell Your ' . $prod->name
+                            );
+                        }
+                        $navigation = array_reverse($navigation);
+                        ?>
+                        @foreach ($navigation as $nav_item) 
+                        <li class="{{ Request::is("{$nav_item['route']}*") ? 'active' : '' }}">
+                            <a href="/{{ $nav_item['route'] }}">{{ $nav_item['label'] }}</a>
+                        </li>
+                        @endforeach
+                    </ul>
+                    <ul class="pull-right social-icons xs-hidden">
+                        <li><a href="http://plus.google.com/u/0/b/104124105732445360642/104124105732445360642/posts"target="_blank" ><img src="/assets/images/social/google.png" alt="iPhone recycling"/></a></li>
+                        <li><a href="http://twitter.com/Gecko_Mobile"target="_blank" ><img src="/assets/images/social/twitter.png" alt="Mobile recycling"/></a></li>
+                        <li><a href="http://www.facebook.com/GeckoMobileRecycling"target="_blank" ><img src="/assets/images/social/facebook.png" alt="Sell my iPhone"/></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <header class="container" id="header">
+            <div class="row">
+                <div class="col-md-8 logo">
+                    <?php $logo =  'logo.png'; if(isset($product->logo) && !empty($product->logo)) { $logo = $product->logo; } ?>
+                    <a href="http://{{ Config::get('app.url') }}" alt="{{ Config::get('recycle.name') }}"/>
+                        <img src="/assets/images/logo/{{ $logo }}" alt="{{ Config::get('recycle.name') }}" title="{{ Config::get('recycle.name') }}" class="img-responsive"/>
+                    </a>
+                </div>
+		<?php if(isset($product)) { ?>
+                <div class="col-lg-4 hidden-xs hidden-md">
+                    <h1 class="pull-right" style="margin-top: 70px; color:#AAA; font-size: 41px;">
+			Sell your {{ $product->name }}...
+                    </h1>
+                </div>
+		<?php } ?>
+            </div>
+            <hr>
+        </header>
+        <div class="container" id="wrapper">
+            <div id="content">
+                @yield('content')
+            </div>
+        </div>
+        <footer id="footer" class="container">
+<div class="row">
+<div class="col-md-12">
+            <hr>
+<script type="text/javascript">
+        $(document).ready(function () {
+            $('#horizontalTab').responsiveTabs({
+                rotate: false,
+                startCollapsed: 'accordion',
+                collapsible: 'accordion',
+                setHash: true,
+                disabled: [],
+                activate: function(e, tab) {
+                    $('.info').html('Tab <strong>' + tab.id + '</strong> activated!');
+                }
+            });
+
+            $('#start-rotation').on('click', function() {
+                $('#horizontalTab').responsiveTabs('active');
+            });
+            $('#stop-rotation').on('click', function() {
+                $('#horizontalTab').responsiveTabs('stopRotation');
+            });
+            $('#start-rotation').on('click', function() {
+                $('#horizontalTab').responsiveTabs('active');
+            });
+            $('.select-tab').on('click', function() {
+                $('#horizontalTab').responsiveTabs('activate', $(this).val());
+            });
+
+        });
+    </script>
+
+    <!--Horizontal Tab-->
+    <div id="horizontalTab">
+        <ul>
+            <li><a href="#tab-1">iPad Recycling</a></li>
+            <li><a href="#tab-2">Sell my mobile reviews</a></li>
+            <li><a href="#tab-3">Mobile recycling</a></li>
+            <li><a href="#tab-4">iPhone recycling</a></li>
+            <li><a href="#tab-5">Sell my mobile price comparison</a></li>
+        </ul>
+
+        <div id="tab-1">
+<p>We offer an <b>iPad recycling</b> service. Simply register a sale on our website - it's really easy to do. Then sit back and wait until our free postage label arrives in your inbox. Of course, if you would prefer to use your own postage then that's fine too. Simply pop your iPad in the post and we will pay you the same day we receive it, which could be as soon as tomorrow! Our <strong>iPad recycling</strong> service has been rated very highly so you can be sure we won't let you down. You can find out more about <a href="https://www.geckomobilerecycling.co.uk/ipad-recycling" target="_blank">iPad recycling</a> here.</p>        </div>
+        <div id="tab-2">
+ <p>Looking for <strong>sell my mobile reviews</strong>? We ask all of our customers to review our service. This is very important to us because listening to your feedback  helps us improve. If we didn't have customers we wouldn't have a business so we do take everything you say on board. We have a page dedicated to <strong>sell my mobile reviews</strong>. Here is our <a href="https://www.geckomobilerecycling.co.uk/sell-my-mobile-reviews" target="_blank">sell my mobile reviews</a> page.</p>        </div>
+        <div id="tab-3">
+  <p>We are specialists in <strong>mobile recycling</strong>, offering a full <strong>mobile recycling </strong>service. When we say 'full' we mean we provide free Postage, provide top-notch support every step of the way (we have a number of ways you can contact us), accept faulty mobiles and much much more. Check out our <a href="https://www.geckomobilerecycling.co.uk/mobile-recycling" target="_blank">mobile recycling</a> pages.</p>        </div>
+        <div id="tab-4">
+    <p>Looking for <strong>iPhone recycling</strong>? You've come to the right place as that is one of the services we offer. So how does our <strong>iPhone recycling</strong> service work? Simply let us know you're sending in your iPhone by filling out the form right on a product page, then take advantage of our free postage or get some cash towards your own if that's what you'd like. Our <a href="https://www.geckomobilerecycling.co.uk/iphone-recycling" target="_blank">iPhone recycling</a> service is very popular with many repeat customers, so we're sure you'll be happy with our service.</p>        </div>
+        <div id="tab-5">
+ <p><strong>Sell my mobile price comparison</strong> is important to customers - we totally get it. So how do we compare? Well, every day we check the market to ensure we offer the very best prices. In fact, we even have a Best Price Guarantee just in case any competitors slip through the net. A few important things to look out for with <strong>sell my mobile price comparison</strong> is to make sure alternative services don't have a reputation for marking down the value of devices unfairly once they arrive. It is also important to consider how long the alternative service takes to pay. Here we never mark down unfairly and pay you the same day we receive your device. You may be interested in viewing our dedicated <a href="https://www.geckomobilerecycling.co.uk/sell-my-mobile-price-comparison" target="_blank">sell my mobile price comparison</a> page.</p>        </div>
+
+    </div>
+<div class="row">
+                <div class="col-md-6">
+                    <h1><span class="glyphicon glyphicon-thumbs-up"></span> Read our reviews</h1>
+                    <p>
+                        Check out our reviews on TrustPilot!
+                    </p>
+<a href="https://www.trustpilot.co.uk/review/www.geckomobilerecycling.co.uk" title="See reviews on https://trustpilot.co.uk"> <script type="text/javascript"> var tpJsHost = (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/trustbox.trustpilot.com/badge/en/5stars/tp_badge-260.png" : "http://trustbox.trustpilot.com/badge/en/5stars/tp_badge-260.png"); document.write(unescape("%3Cimg src="+ tpJsHost + " alt=Trustpilot Badge %3E%3C/img%3E")); </script> </a>                </div>
+                <div class="col-md-6">
+                    <h1><span class="glyphicon glyphicon-map-marker"></span> Contact Us</h1>
+                    <p>
+                        If you have any questions don't hesitate to get in touch!
+                    </p>                
+        <span class="c_icon"><img src="/assets/images/contact/icon_contact_sphone_11.png" alt="phone icon" title="Static Phone"></span>                     
+		        <span>Call: 01392 690189</span>
+		<br /><br />
+        <span class="c_icon"><img src="/assets/images/contact/icon_contact_location_11.png" alt="Address" title="Address"></span>         
+		        <span>Mail: Queensgate House, 48 Queen Street, Exeter, EX4 3SR</span>
+                </div>
+            </div>
+            <hr>
+            <div class="row">
+                <div class="col-lg-4 pull-left">
+                    <ul class="social-icons xs-hidden">
+                         <li><a href="http://plus.google.com/u/0/b/104124105732445360642/104124105732445360642/posts"target="_blank" ><img src="/assets/images/social/google.png" alt="Sell my mobile"/></a></li>
+                        <li><a href="http://twitter.com/Gecko_Mobile"target="_blank" ><img src="/assets/images/social/twitter.png" alt="Sell my mobile reviews"/></a></li>
+                        <li><a href="http://www.facebook.com/GeckoMobileRecycling"target="_blank" ><img src="/assets/images/social/facebook.png" alt="iPad recycling"/></a></li>
+                    </ul>
+                </div>
+                <div class="col-lg-4 pull-left" style="padding: 10px;">
+                   &copy; 2014 Gadget Recycling Ltd. - <a href="/privacy"target="_blank" >Privacy Policy</a>
+<p>Registered in England & Wales (Company No. <b>8765449</b>)</p>
+                </div>
+                <div class="col-lg-4 pull-right">
+                    <script type="text/javascript" src="https://sealserver.trustwave.com/seal.js?style=normal"></script>
+                    <a href="http://www.checkmend.com/uk/recycle"target="_blank"><img src="/assets/images/CheckMENDLogo.jpg" alt="CheckMend" style="max-width: 130px" class="pull-left"/> </a>
+                </div>
+            </div>
+        </div>
+
+<div id="social-tabs"></div>
+</div>
+</div>
+<!-- Start of GetKudos Script -->
+<script>
+(function(w,t,gk,d,s,fs){if(w[gk])return;d=w.document;w[gk]=function(){
+(w[gk]._=w[gk]._||[]).push(arguments)};s=d.createElement(t);s.async=!0;
+s.src='//static.getkudos.me/widget.js';fs=d.getElementsByTagName(t)[0];
+fs.parentNode.insertBefore(s,fs)})(window,'script','getkudos');
+
+
+
+
+getkudos('create', 'gecko_mobile');
+</script>
+<!-- End of GetKudos Script -->
+
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 974242067;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="unknown" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/974242067/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<script type="text/javascript">
+adroll_adv_id = "5RQWSI5V4BB4ZBFUOO7B24";
+adroll_pix_id = "E24B5MJSYRFYLPWDBJHVIH";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+
+</body>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46885631-1', 'geckomobilerecycling.co.uk');
+  ga('send', 'pageview');
+</script>
+
+</html>

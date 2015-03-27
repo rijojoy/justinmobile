@@ -1,0 +1,21 @@
+Options +FollowSymLinks -MultiViews
+RewriteEngine On
+
+RewriteBase /
+
+RewriteCond %{HTTP_HOST} ^geckomobilerecycling.co.uk [NC]
+RewriteRule ^(.*)$ http://www.geckomobilerecycling.co.uk/$1 [L,R=301]
+
+<IfModule mod_rewrite.c>
+    Options -MultiViews
+    RewriteEngine On
+
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+</IfModule>
+AuthName "Homepage Access"
+AuthUserFile "/home/gecko/.htpasswds/public_html/passwd"
+RewriteCond %{REQUEST_URI} !/thankyoutest.html$
+RewriteCond %{HTTP_HOST} ^geckomobilerecycling.co.uk$
+RewriteRule ^/?$ "https\:\/\/www\.geckomobilerecycling\.co\.uk\/" [R=301,L]

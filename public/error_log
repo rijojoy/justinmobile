@@ -1,0 +1,399 @@
+[03-Dec-2013 19:43:30 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gecko/laravel/app/controllers/AuthController.php on line 41
+[03-Dec-2013 19:44:15 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gecko/laravel/app/controllers/AuthController.php on line 41
+[03-Dec-2013 19:44:31 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gecko/laravel/app/controllers/AuthController.php on line 41
+[03-Dec-2013 19:47:56 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gecko/laravel/app/controllers/AuthController.php on line 41
+[03-Dec-2013 19:47:57 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gecko/laravel/app/controllers/AuthController.php on line 41
+[03-Dec-2013 19:47:58 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gecko/laravel/app/controllers/AuthController.php on line 41
+[03-Dec-2013 19:47:58 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gecko/laravel/app/controllers/AuthController.php on line 41
+[03-Dec-2013 19:51:58 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gecko/laravel/app/controllers/AuthController.php on line 41
+[03-Dec-2013 19:54:11 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gecko/laravel/app/controllers/AuthController.php on line 41
+[03-Dec-2013 19:54:15 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gecko/laravel/app/controllers/AuthController.php on line 41
+[03-Dec-2013 19:54:20 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gecko/laravel/app/controllers/AuthController.php on line 41
+[03-Dec-2013 19:54:22 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gecko/laravel/app/controllers/AuthController.php on line 41
+[03-Dec-2013 19:54:24 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gecko/laravel/app/controllers/AuthController.php on line 41
+[03-Dec-2013 20:10:18 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gecko/laravel/app/controllers/AuthController.php on line 41
+[26-Dec-2013 19:11:36 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/gecko/laravel/app/storage/views/fa8a660031745b754cc8f15fe5b0e51e on line 25
+[26-Dec-2013 19:11:40 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/gecko/laravel/app/storage/views/fa8a660031745b754cc8f15fe5b0e51e on line 25
+[26-Dec-2013 19:11:43 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/gecko/laravel/app/storage/views/fa8a660031745b754cc8f15fe5b0e51e on line 25
+[26-Dec-2013 19:11:45 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/gecko/laravel/app/storage/views/fa8a660031745b754cc8f15fe5b0e51e on line 25
+[26-Dec-2013 19:11:51 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/gecko/laravel/app/storage/views/fa8a660031745b754cc8f15fe5b0e51e on line 25
+[26-Dec-2013 19:11:57 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/gecko/laravel/app/storage/views/fa8a660031745b754cc8f15fe5b0e51e on line 25
+[26-Dec-2013 19:12:05 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/gecko/laravel/app/storage/views/fa8a660031745b754cc8f15fe5b0e51e on line 25
+[26-Dec-2013 19:12:40 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/gecko/laravel/app/storage/views/fa8a660031745b754cc8f15fe5b0e51e on line 25
+[26-Dec-2013 19:12:42 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/gecko/laravel/app/storage/views/fa8a660031745b754cc8f15fe5b0e51e on line 25
+[26-Dec-2013 19:13:02 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/gecko/laravel/app/storage/views/fa8a660031745b754cc8f15fe5b0e51e on line 25
+[26-Dec-2013 19:13:04 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/gecko/laravel/app/storage/views/fa8a660031745b754cc8f15fe5b0e51e on line 25
+[26-Dec-2013 19:13:08 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/gecko/laravel/app/storage/views/fa8a660031745b754cc8f15fe5b0e51e on line 25
+[01-Jan-2014 19:58:19 UTC] PHP Fatal error:  Class 'Front\OrderStatus' not found in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 94
+[31-Jan-2014 17:27:50 UTC] PHP Parse error:  syntax error, unexpected ''' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 39
+[08-Feb-2014 21:35:18 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(/public_html/arscode-social-slider/arscode-social-slider.php): failed to open stream: No such file or directory' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:44
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(44): Illuminate\Exception\Handler->handleError(2, 'require_once(/p...', '/home/gecko/lar...', 44, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(44): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vend in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 44
+[08-Feb-2014 21:35:18 UTC] PHP Fatal error:  main(): Failed opening required '/public_html/arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 44
+[08-Feb-2014 21:35:37 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(/public_html/arscode-social-slider/arscode-social-slider.php): failed to open stream: No such file or directory' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:44
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(44): Illuminate\Exception\Handler->handleError(2, 'require_once(/p...', '/home/gecko/lar...', 44, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(44): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vend in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 44
+[08-Feb-2014 21:35:37 UTC] PHP Fatal error:  main(): Failed opening required '/public_html/arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 44
+[08-Feb-2014 21:37:05 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(): http:// wrapper is disabled in the server configuration by allow_url_include=0' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:44
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(44): Illuminate\Exception\Handler->handleError(2, 'require_once():...', '/home/gecko/lar...', 44, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(44): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vendor/laravel/framework/src/Illum in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 44
+[08-Feb-2014 21:37:05 UTC] PHP Fatal error:  main(): Failed opening required 'http://www.geckomobilerecycling.co.uk/arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 44
+[09-Feb-2014 11:58:48 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(arscode-social-slider/arscode-social-slider.php): failed to open stream: No such file or directory' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:164
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): Illuminate\Exception\Handler->handleError(2, 'require_once(ar...', '/home/gecko/lar...', 164, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vendor/larave in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 11:58:48 UTC] PHP Fatal error:  main(): Failed opening required 'arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:00:07 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(arscode-social-slider/arscode-social-slider.php): failed to open stream: No such file or directory' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:164
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): Illuminate\Exception\Handler->handleError(2, 'require_once(ar...', '/home/gecko/lar...', 164, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vendor/larave in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:00:07 UTC] PHP Fatal error:  main(): Failed opening required 'arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:03:19 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(arscode-social-slider/arscode-social-slider.php): failed to open stream: No such file or directory' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:164
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): Illuminate\Exception\Handler->handleError(2, 'require_once(ar...', '/home/gecko/lar...', 164, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vendor/larave in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:03:19 UTC] PHP Fatal error:  main(): Failed opening required 'arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:03:25 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(arscode-social-slider/arscode-social-slider.php): failed to open stream: No such file or directory' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:164
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): Illuminate\Exception\Handler->handleError(2, 'require_once(ar...', '/home/gecko/lar...', 164, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vendor/larave in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:03:25 UTC] PHP Fatal error:  main(): Failed opening required 'arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:04:11 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(arscode-social-slider/arscode-social-slider.php): failed to open stream: No such file or directory' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:164
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): Illuminate\Exception\Handler->handleError(2, 'require_once(ar...', '/home/gecko/lar...', 164, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vendor/larave in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:04:11 UTC] PHP Fatal error:  main(): Failed opening required 'arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:04:16 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(arscode-social-slider/arscode-social-slider.php): failed to open stream: No such file or directory' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:164
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): Illuminate\Exception\Handler->handleError(2, 'require_once(ar...', '/home/gecko/lar...', 164, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vendor/larave in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:04:16 UTC] PHP Fatal error:  main(): Failed opening required 'arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:04:22 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(arscode-social-slider/arscode-social-slider.php): failed to open stream: No such file or directory' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:164
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): Illuminate\Exception\Handler->handleError(2, 'require_once(ar...', '/home/gecko/lar...', 164, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vendor/larave in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:04:22 UTC] PHP Fatal error:  main(): Failed opening required 'arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:05:44 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(arscode-social-slider/arscode-social-slider.php): failed to open stream: No such file or directory' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:164
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): Illuminate\Exception\Handler->handleError(2, 'require_once(ar...', '/home/gecko/lar...', 164, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vendor/larave in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:05:44 UTC] PHP Fatal error:  main(): Failed opening required 'arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:05:44 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(arscode-social-slider/arscode-social-slider.php): failed to open stream: No such file or directory' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:164
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): Illuminate\Exception\Handler->handleError(2, 'require_once(ar...', '/home/gecko/lar...', 164, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vendor/larave in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:05:44 UTC] PHP Fatal error:  main(): Failed opening required 'arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:05:49 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(arscode-social-slider/arscode-social-slider.php): failed to open stream: No such file or directory' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:164
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): Illuminate\Exception\Handler->handleError(2, 'require_once(ar...', '/home/gecko/lar...', 164, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vendor/larave in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:05:49 UTC] PHP Fatal error:  main(): Failed opening required 'arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:07:15 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(arscode-social-slider/arscode-social-slider.php): failed to open stream: No such file or directory' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:164
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): Illuminate\Exception\Handler->handleError(2, 'require_once(ar...', '/home/gecko/lar...', 164, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vendor/larave in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:07:15 UTC] PHP Fatal error:  main(): Failed opening required 'arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:08:01 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(arscode-social-slider/arscode-social-slider.php): failed to open stream: No such file or directory' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:164
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): Illuminate\Exception\Handler->handleError(2, 'require_once(ar...', '/home/gecko/lar...', 164, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vendor/larave in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:08:01 UTC] PHP Fatal error:  main(): Failed opening required 'arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:10:06 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(arscode-social-slider/arscode-social-slider.php): failed to open stream: No such file or directory' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:164
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): Illuminate\Exception\Handler->handleError(2, 'require_once(ar...', '/home/gecko/lar...', 164, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vendor/larave in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:10:06 UTC] PHP Fatal error:  main(): Failed opening required 'arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:12:57 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(arscode-social-slider/arscode-social-slider.php): failed to open stream: No such file or directory' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:164
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): Illuminate\Exception\Handler->handleError(2, 'require_once(ar...', '/home/gecko/lar...', 164, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vendor/larave in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:12:57 UTC] PHP Fatal error:  main(): Failed opening required 'arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:15:02 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(arscode-social-slider/arscode-social-slider.php): failed to open stream: No such file or directory' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:164
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): Illuminate\Exception\Handler->handleError(2, 'require_once(ar...', '/home/gecko/lar...', 164, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vendor/larave in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:15:02 UTC] PHP Fatal error:  main(): Failed opening required 'arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:15:53 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(arscode-social-slider/arscode-social-slider.php): failed to open stream: No such file or directory' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:164
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): Illuminate\Exception\Handler->handleError(2, 'require_once(ar...', '/home/gecko/lar...', 164, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vendor/larave in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:15:53 UTC] PHP Fatal error:  main(): Failed opening required 'arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:15:54 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(arscode-social-slider/arscode-social-slider.php): failed to open stream: No such file or directory' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:164
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): Illuminate\Exception\Handler->handleError(2, 'require_once(ar...', '/home/gecko/lar...', 164, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vendor/larave in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:15:54 UTC] PHP Fatal error:  main(): Failed opening required 'arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:23:29 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(arscode-social-slider/arscode-social-slider.php): failed to open stream: No such file or directory' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:164
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): Illuminate\Exception\Handler->handleError(2, 'require_once(ar...', '/home/gecko/lar...', 164, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vendor/larave in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:23:29 UTC] PHP Fatal error:  main(): Failed opening required 'arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:23:29 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(arscode-social-slider/arscode-social-slider.php): failed to open stream: No such file or directory' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:164
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): Illuminate\Exception\Handler->handleError(2, 'require_once(ar...', '/home/gecko/lar...', 164, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vendor/larave in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:23:29 UTC] PHP Fatal error:  main(): Failed opening required 'arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:23:32 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(arscode-social-slider/arscode-social-slider.php): failed to open stream: No such file or directory' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:164
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): Illuminate\Exception\Handler->handleError(2, 'require_once(ar...', '/home/gecko/lar...', 164, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vendor/larave in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:23:32 UTC] PHP Fatal error:  main(): Failed opening required 'arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:26:02 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(arscode-social-slider/arscode-social-slider.php): failed to open stream: No such file or directory' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:164
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): Illuminate\Exception\Handler->handleError(2, 'require_once(ar...', '/home/gecko/lar...', 164, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vendor/larave in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:26:02 UTC] PHP Fatal error:  main(): Failed opening required 'arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:28:19 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(arscode-social-slider/arscode-social-slider.php): failed to open stream: No such file or directory' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:164
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): Illuminate\Exception\Handler->handleError(2, 'require_once(ar...', '/home/gecko/lar...', 164, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vendor/larave in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:28:19 UTC] PHP Fatal error:  main(): Failed opening required 'arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:28:21 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(arscode-social-slider/arscode-social-slider.php): failed to open stream: No such file or directory' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:164
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): Illuminate\Exception\Handler->handleError(2, 'require_once(ar...', '/home/gecko/lar...', 164, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vendor/larave in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:28:21 UTC] PHP Fatal error:  main(): Failed opening required 'arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:28:25 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(arscode-social-slider/arscode-social-slider.php): failed to open stream: No such file or directory' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:164
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): Illuminate\Exception\Handler->handleError(2, 'require_once(ar...', '/home/gecko/lar...', 164, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vendor/larave in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:28:25 UTC] PHP Fatal error:  main(): Failed opening required 'arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:28:52 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(arscode-social-slider/arscode-social-slider.php): failed to open stream: No such file or directory' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:164
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): Illuminate\Exception\Handler->handleError(2, 'require_once(ar...', '/home/gecko/lar...', 164, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vendor/larave in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:28:52 UTC] PHP Fatal error:  main(): Failed opening required 'arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:40:16 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(arscode-social-slider/arscode-social-slider.php): failed to open stream: No such file or directory' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023:164
+Stack trace:
+#0 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): Illuminate\Exception\Handler->handleError(2, 'require_once(ar...', '/home/gecko/lar...', 164, Array)
+#1 /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023(164): require_once()
+#2 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(38): include('/home/gecko/lar...')
+#3 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(45): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/gecko/lar...', Array)
+#4 /home/gecko/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(100): Illuminate\View\Engines\CompilerEngine->get('/home/gecko/lar...', Array)
+#5 /home/gecko/laravel/vendor/larave in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Feb-2014 12:40:16 UTC] PHP Fatal error:  main(): Failed opening required 'arscode-social-slider/arscode-social-slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 164
+[09-Mar-2014 03:02:19 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/gecko/laravel/app/storage/views/9a64c7ab6b1575abdfd35f27ebac94a3 on line 42
+[09-Mar-2014 03:03:28 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/gecko/laravel/app/storage/views/9a64c7ab6b1575abdfd35f27ebac94a3 on line 42
+[09-Mar-2014 03:03:38 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/gecko/laravel/app/storage/views/9a64c7ab6b1575abdfd35f27ebac94a3 on line 42
+[09-Mar-2014 03:04:18 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/gecko/laravel/app/storage/views/9a64c7ab6b1575abdfd35f27ebac94a3 on line 42
+[09-Mar-2014 03:16:09 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/gecko/laravel/app/storage/views/9a64c7ab6b1575abdfd35f27ebac94a3 on line 16
+[22-May-2014 16:56:17 UTC] PHP Parse error:  syntax error, unexpected ''contact'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 54
+[22-May-2014 16:56:19 UTC] PHP Parse error:  syntax error, unexpected ''contact'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 54
+[22-May-2014 16:56:38 UTC] PHP Parse error:  syntax error, unexpected ''contact'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 54
+[31-May-2014 04:52:56 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 44
+[31-May-2014 04:55:48 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 44
+[31-May-2014 05:31:35 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 44
+[31-May-2014 05:50:31 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 44
+[31-May-2014 05:50:32 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 44
+[31-May-2014 06:32:45 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 44
+[31-May-2014 07:30:38 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 44
+[31-May-2014 08:01:07 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 44
+[31-May-2014 08:34:53 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 44
+[31-May-2014 08:47:36 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 44
+[31-May-2014 09:09:04 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 44
+[31-May-2014 09:48:44 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 44
+[31-May-2014 09:48:48 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 44
+[31-May-2014 09:49:08 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 44
+[31-May-2014 09:50:58 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 44
+[31-May-2014 09:51:49 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 44
+[31-May-2014 09:51:52 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 44
+[31-May-2014 09:52:10 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 44
+[31-May-2014 09:52:19 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 44
+[31-May-2014 09:52:34 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 44
+[31-May-2014 09:52:40 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 44
+[31-May-2014 09:53:18 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 44
+[31-May-2014 09:53:24 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 44
+[31-May-2014 09:53:41 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 44
+[31-May-2014 09:53:48 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 44
+[31-May-2014 09:53:51 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 44
+[31-May-2014 09:54:54 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 44
+[31-May-2014 09:54:56 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 44
+[31-May-2014 09:56:49 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 54
+[31-May-2014 09:56:51 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 54
+[31-May-2014 09:56:53 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 54
+[17-Jun-2014 18:18:53 UTC] PHP Parse error:  syntax error, unexpected ''; ?>, ' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/gecko/laravel/app/storage/views/9a64c7ab6b1575abdfd35f27ebac94a3 on line 154
+[17-Jun-2014 18:19:04 UTC] PHP Parse error:  syntax error, unexpected ''; ?>, ' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/gecko/laravel/app/storage/views/9a64c7ab6b1575abdfd35f27ebac94a3 on line 154
+[17-Jun-2014 18:19:20 UTC] PHP Parse error:  syntax error, unexpected ''; ?>, ' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/gecko/laravel/app/storage/views/9a64c7ab6b1575abdfd35f27ebac94a3 on line 154
+[17-Jun-2014 18:19:22 UTC] PHP Parse error:  syntax error, unexpected ''; ?>, ' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/gecko/laravel/app/storage/views/9a64c7ab6b1575abdfd35f27ebac94a3 on line 154
+[11-Jul-2014 22:09:48 UTC] PHP Parse error:  syntax error, unexpected 'alt' (T_STRING) in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 99
+[13-Jul-2014 15:48:37 UTC] PHP Warning:  require(/home/gecko/public_html/../laravel/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/gecko/public_html/index.php on line 21
+[13-Jul-2014 15:48:37 UTC] PHP Fatal error:  require(): Failed opening required '/home/gecko/public_html/../laravel/bootstrap/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/public_html/index.php on line 21
+[13-Jul-2014 17:19:20 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/gecko/laravel/app/storage/views/729157d7b6ad9a8c64318af268cf860d on line 18
+[13-Jul-2014 17:20:48 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/gecko/laravel/app/storage/views/729157d7b6ad9a8c64318af268cf860d on line 18
+[13-Jul-2014 17:20:54 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/gecko/laravel/app/storage/views/729157d7b6ad9a8c64318af268cf860d on line 18
+[13-Jul-2014 17:21:59 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/gecko/laravel/app/storage/views/729157d7b6ad9a8c64318af268cf860d on line 18
+[13-Jul-2014 17:22:58 UTC] PHP Fatal error:  Class 'MetaGenerator' not found in /home/gecko/laravel/app/storage/views/729157d7b6ad9a8c64318af268cf860d on line 13
+[13-Jul-2014 17:23:08 UTC] PHP Fatal error:  Class 'MetaGenerator' not found in /home/gecko/laravel/app/storage/views/729157d7b6ad9a8c64318af268cf860d on line 13
+[13-Jul-2014 17:23:14 UTC] PHP Fatal error:  Class 'MetaGenerator' not found in /home/gecko/laravel/app/storage/views/729157d7b6ad9a8c64318af268cf860d on line 13
+[13-Jul-2014 17:25:31 UTC] PHP Fatal error:  Class 'MetaGenerator' not found in /home/gecko/laravel/app/storage/views/729157d7b6ad9a8c64318af268cf860d on line 13
+[13-Jul-2014 17:25:36 UTC] PHP Fatal error:  Class 'MetaGenerator' not found in /home/gecko/laravel/app/storage/views/729157d7b6ad9a8c64318af268cf860d on line 13
+[13-Jul-2014 17:27:17 UTC] PHP Fatal error:  Class 'MetaGenerator' not found in /home/gecko/laravel/app/storage/views/729157d7b6ad9a8c64318af268cf860d on line 13
+[13-Jul-2014 17:29:23 UTC] PHP Fatal error:  Class 'MetaGenerator' not found in /home/gecko/laravel/app/storage/views/729157d7b6ad9a8c64318af268cf860d on line 13
+[13-Jul-2014 17:30:37 UTC] PHP Fatal error:  Class 'MetaGenerator' not found in /home/gecko/laravel/app/storage/views/729157d7b6ad9a8c64318af268cf860d on line 4
+[13-Jul-2014 17:31:25 UTC] PHP Fatal error:  Class 'MetaGenerator' not found in /home/gecko/laravel/app/storage/views/729157d7b6ad9a8c64318af268cf860d on line 4
+[13-Jul-2014 17:31:53 UTC] PHP Fatal error:  Class 'MetaGenerator' not found in /home/gecko/laravel/app/storage/views/729157d7b6ad9a8c64318af268cf860d on line 4
+[13-Jul-2014 17:32:00 UTC] PHP Fatal error:  Call to undefined method Calotype\SEO\Facades\Meta::generate() in /home/gecko/laravel/app/storage/views/729157d7b6ad9a8c64318af268cf860d on line 11
+[13-Jul-2014 17:38:43 UTC] PHP Fatal error:  Class 'MetaGenerator' not found in /home/gecko/laravel/app/storage/views/729157d7b6ad9a8c64318af268cf860d on line 4
+[13-Jul-2014 17:53:53 UTC] PHP Fatal error:  Class 'SEO\MetaGenerator\MetaGenerator' not found in /home/gecko/laravel/app/storage/views/729157d7b6ad9a8c64318af268cf860d on line 4
+[13-Jul-2014 18:01:44 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/gecko/laravel/app/storage/views/729157d7b6ad9a8c64318af268cf860d on line 5
+[13-Jul-2014 18:06:48 UTC] PHP Fatal error:  Call to undefined method Calotype\SEO\Generators\MetaGenerator::getGenerator() in /home/gecko/laravel/app/storage/views/729157d7b6ad9a8c64318af268cf860d on line 13
+[13-Jul-2014 18:07:47 UTC] PHP Fatal error:  Call to undefined method Calotype\SEO\Generators\MetaGenerator::getGenerator() in /home/gecko/laravel/app/storage/views/729157d7b6ad9a8c64318af268cf860d on line 12
+[13-Jul-2014 18:08:23 UTC] PHP Fatal error:  Call to undefined method Calotype\SEO\Generators\MetaGenerator::getGenerator() in /home/gecko/laravel/app/storage/views/729157d7b6ad9a8c64318af268cf860d on line 6
+[14-Jul-2014 08:53:39 UTC] PHP Fatal error:  Class User contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (Illuminate\Auth\UserInterface::getRememberToken, Illuminate\Auth\UserInterface::setRememberToken, Illuminate\Auth\UserInterface::getRememberTokenName) in /home/gecko/laravel/app/models/User.php on line 52
+[14-Jul-2014 09:05:36 UTC] PHP Fatal error:  Class User contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (Illuminate\Auth\UserInterface::getRememberToken, Illuminate\Auth\UserInterface::setRememberToken, Illuminate\Auth\UserInterface::getRememberTokenName) in /home/gecko/laravel/app/models/User.php on line 52
+[15-Jul-2014 15:00:35 UTC] PHP Fatal error:  Class 'Seo' not found in /home/gecko/laravel/app/storage/views/cc49ed48b23b32bdbbcfc82a6b920023 on line 12
+[13-Aug-2014 09:11:31 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 257425408 bytes) in /home/gecko/laravel/app/routes.php on line 119
+[13-Aug-2014 09:15:33 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 257425408 bytes) in /home/gecko/laravel/app/routes.php on line 119
+[13-Aug-2014 09:17:55 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 257425408 bytes) in /home/gecko/laravel/app/routes.php on line 119
+[13-Aug-2014 09:18:03 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 257425408 bytes) in /home/gecko/laravel/app/routes.php on line 119
+[13-Aug-2014 09:18:09 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 257425408 bytes) in /home/gecko/laravel/app/routes.php on line 119
+[13-Aug-2014 09:18:53 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 257425408 bytes) in /home/gecko/laravel/app/routes.php on line 119
+[13-Aug-2014 10:22:09 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 257425408 bytes) in /home/gecko/laravel/app/routes.php on line 119
+[13-Aug-2014 12:10:07 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 257425408 bytes) in /home/gecko/laravel/app/routes.php on line 119
+[13-Aug-2014 12:13:29 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 257425408 bytes) in /home/gecko/laravel/app/routes.php on line 119
+[13-Aug-2014 12:21:53 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 257425408 bytes) in /home/gecko/laravel/app/routes.php on line 119
+[13-Aug-2014 12:23:19 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 257425408 bytes) in /home/gecko/laravel/app/routes.php on line 119
+[13-Aug-2014 12:23:37 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 257425408 bytes) in /home/gecko/laravel/app/routes.php on line 119
+[13-Aug-2014 16:10:40 UTC] PHP Fatal error:  Class 'Orders\stdClass' not found in /home/gecko/laravel/app/controllers/Orders/OrdersController.php on line 74
+[13-Aug-2014 16:11:40 UTC] PHP Fatal error:  Class 'Orders\stdClass' not found in /home/gecko/laravel/app/controllers/Orders/OrdersController.php on line 74
+[13-Aug-2014 16:14:19 UTC] PHP Fatal error:  Class 'Orders\Redirect' not found in /home/gecko/laravel/app/controllers/Orders/OrdersController.php on line 82
+[04-Sep-2014 13:53:46 UTC] PHP Parse error:  syntax error, unexpected 'personal_info' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gecko/laravel/app/storage/views/49740c8bd4ac55a212070b550bd1fec8 on line 230
+[04-Sep-2014 13:53:57 UTC] PHP Parse error:  syntax error, unexpected 'personal_info' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gecko/laravel/app/storage/views/49740c8bd4ac55a212070b550bd1fec8 on line 230
+[04-Sep-2014 23:32:25 UTC] PHP Parse error:  syntax error, unexpected 'order' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gecko/laravel/app/storage/views/5ab5639ae159990080dd6022148a9eb2 on line 344
+[04-Sep-2014 23:32:25 UTC] PHP Parse error:  syntax error, unexpected 'order' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/gecko/laravel/app/storage/views/5ab5639ae159990080dd6022148a9eb2 on line 344
+[08-Sep-2014 18:11:40 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home/gecko/laravel/bootstrap/compiled.php on line 4321
+[08-Sep-2014 18:11:45 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home/gecko/laravel/bootstrap/compiled.php on line 4321
+[08-Sep-2014 18:13:02 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home/gecko/laravel/bootstrap/compiled.php on line 4321
+[08-Sep-2014 18:13:09 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home/gecko/laravel/bootstrap/compiled.php on line 4321
+[08-Sep-2014 18:13:42 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home/gecko/laravel/bootstrap/compiled.php on line 4321
+[08-Sep-2014 18:14:44 UTC] PHP Warning:  require(/home/gecko/public_html/../laravel/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/gecko/public_html/index.php on line 21
+[08-Sep-2014 18:14:44 UTC] PHP Fatal error:  require(): Failed opening required '/home/gecko/public_html/../laravel/bootstrap/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/public_html/index.php on line 21
+[08-Sep-2014 18:15:02 UTC] PHP Warning:  require(/home/gecko/public_html/../laravel/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/gecko/public_html/index.php on line 21
+[08-Sep-2014 18:15:02 UTC] PHP Fatal error:  require(): Failed opening required '/home/gecko/public_html/../laravel/bootstrap/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/public_html/index.php on line 21
+[08-Sep-2014 18:15:45 UTC] PHP Warning:  require(/home/gecko/public_html/../laravel/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/gecko/public_html/index.php on line 21
+[08-Sep-2014 18:15:45 UTC] PHP Fatal error:  require(): Failed opening required '/home/gecko/public_html/../laravel/bootstrap/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/public_html/index.php on line 21
+[08-Sep-2014 18:15:53 UTC] PHP Warning:  require(/home/gecko/public_html/../laravel/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/gecko/public_html/index.php on line 21
+[08-Sep-2014 18:15:53 UTC] PHP Fatal error:  require(): Failed opening required '/home/gecko/public_html/../laravel/bootstrap/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gecko/public_html/index.php on line 21
+[12-Oct-2014 21:29:07 UTC] PHP Parse error:  syntax error, unexpected 'll' (T_STRING) in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 173
+[12-Oct-2014 21:29:50 UTC] PHP Parse error:  syntax error, unexpected 'll' (T_STRING) in /home/gecko/laravel/app/routes.php on line 78
+[12-Oct-2014 21:29:52 UTC] PHP Parse error:  syntax error, unexpected 'll' (T_STRING) in /home/gecko/laravel/app/routes.php on line 78
+[12-Oct-2014 21:30:16 UTC] PHP Parse error:  syntax error, unexpected 'll' (T_STRING) in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 173
+[12-Oct-2014 21:35:56 UTC] PHP Parse error:  syntax error, unexpected 'll' (T_STRING) in /home/gecko/laravel/app/controllers/Front/ProductsController.php on line 173
+[27-Feb-2015 11:06:56 UTC] PHP Parse error:  syntax error, unexpected '']; ?>&orderId=<?php echo \Cry' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/gecko/laravel/app/storage/views/9a64c7ab6b1575abdfd35f27ebac94a3 on line 405
+[27-Feb-2015 11:07:08 UTC] PHP Parse error:  syntax error, unexpected '']; ?>&orderId=<?php echo \Cry' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/gecko/laravel/app/storage/views/9a64c7ab6b1575abdfd35f27ebac94a3 on line 405
+[27-Feb-2015 11:08:45 UTC] PHP Parse error:  syntax error, unexpected '']; ?>&orderId=<?php echo \Cry' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/gecko/laravel/app/storage/views/9a64c7ab6b1575abdfd35f27ebac94a3 on line 405
